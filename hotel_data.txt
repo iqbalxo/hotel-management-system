@@ -1,0 +1,8 @@
+101 Single 100.0 1
+102 Double 150.0 0 John_Doe 2024-06-01 2024-06-10
+103 Suite 300.0 1
+104 Single 120.0 0 Jane_Smith 2024-06-12 2024-06-15
+105 Double 180.0 1
+106 Single 110.0 1
+107 Suite 350.0 0 Alice_Jones 2024-06-05 2024-06-08
+108 Double 160.0 1
