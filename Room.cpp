@@ -2,8 +2,7 @@
 //  Room.cpp
 //  projectfinal2
 //
-//  Created by Muhammad Tariq on 23/06/2024.
-//
+
 
 #include "Room.h"
 #include <iostream>
