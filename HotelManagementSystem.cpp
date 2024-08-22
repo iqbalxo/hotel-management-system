@@ -2,8 +2,7 @@
 //  HotelManagementSystem.cpp
 //  projectfinal2
 //
-//  Created by Muhammad Tariq on 23/06/2024.
-//
+
 
 #include "HotelManagementSystem.h"
 #include <fstream>
