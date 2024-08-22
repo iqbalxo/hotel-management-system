@@ -2,8 +2,7 @@
 //  Room.h
 //  projectfinal2
 //
-//  Created by Muhammad Tariq on 23/06/2024.
-//
+
 
 #ifndef ROOM_H
 #define ROOM_H
