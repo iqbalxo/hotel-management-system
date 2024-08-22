@@ -2,8 +2,7 @@
 //  HotelManagementSystem.h
 //  projectfinal2
 //
-//  Created by Muhammad Tariq on 23/06/2024.
-//
+
 
 #ifndef HOTELMANAGEMENTSYSTEM_H
 #define HOTELMANAGEMENTSYSTEM_H
